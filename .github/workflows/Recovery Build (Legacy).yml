@@ -14,7 +14,7 @@ on:
       DEVICE_TREE_URL:
         description: 'DEVICE_TREE_URL'
         required: true
-        default: 'https://github.com/XingKongTanSuo/android_device_EEBBK_H3000S-twrp/'
+        default: 'https://github.com/XingKongTanSuo/android_device_EEBBK_H3000S-twrp'
       DEVICE_TREE_BRANCH:
         description: 'DEVICE_TREE_BRANCH'
         required: true
